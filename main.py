@@ -1,5 +1,5 @@
 from sympy import *
-import re
+
 
 a = "**"
 newPower = "^"
